@@ -2,4 +2,4 @@
 
 I am a student of Information Technology in evolution 📚 💪 😄, graduated in Computer Science. 📚🎓
 
-💪 I essentially seek to improve my technical skills in web technologies and innovation. 📚 💻
+💪 I essentially seek to improve my technical skills in web technologies. 📚 💻
