@@ -2,11 +2,11 @@
 
 Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado em Ciência da Computação 📚🎓.
 
-💪 Em busca de colaborar e ajudar as organizações a obter melhor uso da tecnologia e dos sistemas web. 📚 💻 
+💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📚 💻 
 
 // 
 
 Evolving Information Technology Enthusiast 📚 💪 😄, graduated in Computer Science 📚🎓.
 
-💪 Seeking to collaborate and help organizations make better use of technology and web systems. 📚
+💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems.📚
 
