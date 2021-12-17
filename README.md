@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André :smile:</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Lima:smile:</h1>
 
 ➡ Evolving Information Technology Enthusiast 📚 💪 😄, graduated in Computer Science 📚🎓.
 
