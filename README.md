@@ -10,7 +10,6 @@
 
 ➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📒 💻 
 
-
 ## 🧰&nbsp;knowledge:
 
 <br>
