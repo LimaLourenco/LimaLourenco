@@ -10,7 +10,7 @@ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado 
 
 💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📚 💻 
 
-<br><br>
+<br>
 
 ## 🧰&nbsp;knowledge:
 
