@@ -8,7 +8,7 @@
 
 ➡ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado em Ciência da Computação 📚🎓.
 
-➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📚 💻 
+➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web 📚 💻.  
 
 ## 🧰&nbsp;knowledge:
 
@@ -27,9 +27,9 @@
 
 <br>
 
-📖 Always looking for daily knowledge and aiming to acquire knowledge that I can add to me and also somehow share. 📚
+📖 Always looking for daily knowledge and aiming to acquire knowledge that I can add to me and also somehow share 📚. 
 
 //
 
-📖 Sempre em busca do conhecimento diário e tendo como objetivo adquirir conhecimento que possa agregar para mim e também de alguma forma compartilhar.📚
+📖 Sempre em busca do conhecimento diário e tendo como objetivo adquirir conhecimento que possa agregar para mim e também de alguma forma compartilhar 📚.
 
