@@ -28,5 +28,9 @@ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado 
 
 <br>
 
+📖 Always looking for daily knowledge and aiming to acquire knowledge that I can add to me and also somehow share. 📚
+
+//
+
 📖 Sempre em busca do conhecimento diário e tendo como objetivo adquirir conhecimento que possa agregar para mim e também de alguma forma compartilhar.📚
 
