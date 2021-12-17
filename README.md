@@ -2,7 +2,7 @@
 
 ➡ Evolving Information Technology Enthusiast 📚 💪 😄, graduated in Computer Science 📚🎓.
 
-➡ 💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems.📚
+➡ 💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems 📚.
 
 // 
 
