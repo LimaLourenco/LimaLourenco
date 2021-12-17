@@ -6,9 +6,9 @@
 
 // 
 
-Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado em Ciência da Computação 📚🎓.
+➡ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado em Ciência da Computação 📚🎓.
 
-💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📚 💻 
+➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obter melhor uso da tecnologia e dos sistemas web. 📒 💻 
 
 
 ## 🧰&nbsp;knowledge:
