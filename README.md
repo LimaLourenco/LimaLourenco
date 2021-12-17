@@ -29,5 +29,5 @@
 
 //
 
-📖 Sempre em busca do conhecimento diário e tendo como objetivo adquirir conhecimento que possa agregar para mim e também de alguma forma compartilhar 📚.
+📖 Sempre buscando o conhecimento do dia a dia e visando adquirir conhecimentos que eu possa agregar a mim e também de alguma forma compartilhar 📚.
 
