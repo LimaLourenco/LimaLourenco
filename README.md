@@ -1,14 +1,14 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Lima:smile:</h1>
 
-➡ Evolving Information Technology Enthusiast 📚 💪 😄, graduated in Computer Science 📚🎓.
+➩ Evolving Information Technology Enthusiast 📚 💪 😄 📚.
 
-➡ 💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems 📚.
+➩ 💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems 📚.
 
 // 
 
-➡ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄, graduado em Ciência da Computação 📚🎓.
+➩ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄 📚.
 
-➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obterem melhor uso da tecnologia e dos sistemas web 📚 💻.  
+➩ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obterem melhor uso da tecnologia e dos sistemas web 📚 💻.  
 
 ## 🧰&nbsp;Tech Stack:
 
