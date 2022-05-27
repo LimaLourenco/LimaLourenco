@@ -10,7 +10,7 @@
 
 ➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obterem melhor uso da tecnologia e dos sistemas web 📚 💻.  
 
-## 🧰&nbsp;knowledge:
+## 🧰&nbsp;Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
