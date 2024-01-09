@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Lima</h1>
 
-➡ Information technology enthusiast 📚 💪 😄 📚.
+➡ 🔭 Information technology enthusiast 📚 💪 😄 📚.
 
 ➡ 💪 Systems Analyst 💻.
 
