@@ -4,7 +4,7 @@
 
 ➡ 💪 Systems Analyst 💻.
 
-➡ Atualmente trabalhando com Javascript, Typescript, Nodejs, React.js e MongoDB 📚 💻 📚.
+➡ Currently working with Javascript, Typescript, Nodejs, React.js and MongoDB 📚 💻 📚.
 
 ➡ I am currently studying more about Software Development and Testing Processes 💪 📚.
 
