@@ -1,16 +1,16 @@
-<h1 align="center">Hello <img src="https://www.rocketseat.com.br/assets/icons/emoji.svg" width="30px">, I'm André Lima:smile:</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Lima</h1>
 
-➡ Evolving Information Technology Enthusiast 📚 💪 😄 📚.
+➡ Information technology enthusiast 📚 💪 😄 📚.
 
-➡ 💪 Seeking to collaborate and help organizations and people to make better use of technology and web systems 📚.
+➡ 💪 System analyst 💻.
+
+➡ Atualmente trabalhando com Javascript, Typescript, Nodejs, React.js e MongoDB 📚 💻 📚.
+
+➡ I am currently studying more about Software Development and Testing Processes 💪 📚.
 
 // 
 
-➡ Entusiasta da Tecnologia da Informação em evolução 📚 💪 😄 📚.
-
-➡ 💪 Em busca de colaborar e ajudar as organizações e pessoas a obterem melhor uso da tecnologia e dos sistemas web 📚 💻.  
-
-## 🧰&nbsp;Tech Stack:
+## 🧰&nbsp;Technological languages ​​and tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -25,6 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-📖 Always looking for daily knowledge and aiming to acquire knowledge that I can add to me and also somehow share 📚. 
+📖 Always looking for daily knowledge, to be able to add something to myself and also share something in some way 📚. 
 
 
