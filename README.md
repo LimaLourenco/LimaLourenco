@@ -6,7 +6,7 @@
 
 ➡ Currently working with Javascript, Typescript, Nodejs, React.js and MongoDB 📚 💻 📚.
 
-➡ I am currently learning more about Software Development and Testing Processes 💪 📚.
+➡ I'm currently learning more about Software Engineering and Testing Processes 💪 📚.
 
 // 
 
