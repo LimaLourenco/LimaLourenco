@@ -2,7 +2,7 @@
 
 ➡ 🔭 Information technology enthusiast 📚 💪 😄 📚.
 
-➡ 💪 Systems Analyst 💻.
+➡ 💪 Systems Developer Analyst 💻.
 
 ➡ Currently working with Javascript, Typescript, Nodejs, React.js and MongoDB 📚 💻 📚.
 
