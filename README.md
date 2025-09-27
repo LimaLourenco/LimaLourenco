@@ -1,12 +1,10 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Lima</h1>
 
-##
-
 <div style="margin-top:2px"></div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./img/img01.png" width="250" height="150" />
+    <img src="./img/img01.png" width="350" height="250" />
   </a>
 </p>
 
