@@ -1,33 +1,44 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Lima</h1>
 
-➡ 🔭 Information technology enthusiast 📚 💪 😄 📚.
+##
 
-➡ 💪 Systems Developer Analyst 💻.
+<div style="margin-top:2px"></div>
 
-➡ Currently working with Javascript, Typescript, Nodejs, React.js and MongoDB 📚 💻 📚.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./img/img01.png" />
+  </a>
+</p>
 
-➡ I'm currently learning more about Software Engineering and Testing Processes 💪 📚.
+## 📝 About Me
 
-// 
+<h3>I work as a Full-Stack Developer, focusing on back-end development using Node.js, Express, and Fastify, as well as experience with relational and non-relational databases.
+Concurrently, my experience also includes front-end development with HTML5, CSS3, JavaScript, React.js, and Next.js, which gives me a comprehensive and strategic perspective on the full-stack development landscape.
+I'm currently deepening my knowledge of software engineering and testing processes, as well as exploring the potential of artificial intelligence to design and build innovative solutions.
+<br>
+<br>
 
-## 🧰&nbsp;Technological languages ​​and tools:
+### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Technologies used that I know
 
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescrupt](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,cypress,postgres,githubactions&theme=dark&perline=12" />
+</p>
 
+<p align="center">
+<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,express,fastify,java,jest,sqlite,mongodb,docker&theme=dark&perline=12" />
+</p>
+<br>
+<br>
 
-📖 Always looking for daily knowledge, to be able to add something to myself and also share something in some way 📚. 
+## 📫 Connect With Me 
+<p align="center"> 
+<a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</p>
 
-
+<br>
+<br>
+<br>
