@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./img/img01.png" />
+    <img src="./img/img01.png" width="250" height="150" />
   </a>
 </p>
 
