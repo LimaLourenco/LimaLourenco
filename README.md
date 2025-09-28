@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./img/img01.png" width="350" height="250" />
+    <img src="./img/img01.png" width="250" height="150" />
   </a>
 </p>
 
 ## 📝 About Me
 
-<h3>I have experience as a Full-Stack Developer, with a strong focus on back-end development using Node.js, Express, and Fastify, experience in both relational and non-relational databases. At the same time, my background also includes front-end development with HTML5, CSS3, JavaScript TypeScript, React.js, and Next.js, which gives me a broad and strategic perspective on the full-stack development landscape. I am currently deepening my knowledge in software engineering and testing processes, while also exploring the potential of artificial intelligence to design and build innovative solutions.
+<h3>I have experience as a Full-Stack Developer, with a strong focus on back-end development using Node.js, Express, Fastify and experience in both relational and non-relational databases. At the same time, my background also includes front-end development with HTML5, CSS3, JavaScript, TypeScript, React.js, and Next.js, which gives me a broad and strategic perspective on the full-stack development. I am currently deepening my knowledge in software engineering and testing processes, while also exploring the potential of artificial intelligence to design and build innovative solutions.
 <br>
 <br>
 
