@@ -3,7 +3,7 @@
 <div style="margin-top:2px"></div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank">
     <img src="./img/img01.png" width="250" height="150" />
   </a>
 </p>
