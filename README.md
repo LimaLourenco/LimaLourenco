@@ -3,7 +3,7 @@
 <div style="margin-top:2px"></div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank">
+  <a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank" rel="noopener noreferrer">
     <img src="./img/img01.png" width="250" height="150" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 
 ## 📫 How to reach me 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank">
+<a href="https://www.linkedin.com/in/andrelimalourenco/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
